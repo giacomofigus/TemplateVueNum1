@@ -1,11 +1,11 @@
-<script setup>
+<script>
 
 </script>
 
 <template>
-  
+  <h1>cioa</h1>
 </template>
 
-<style>
+<style lang="sass">
 
 </style>
